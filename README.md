@@ -1,2 +1,2 @@
 # ct-kaniko-crane
-Kaniko with crane container
+Kaniko container with crane from https://github.com/google/go-containerregistry/tree/main
